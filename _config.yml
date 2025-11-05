@@ -20,7 +20,7 @@ baseurl: "/portfolio"
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: aqua # light/default, dark, or aqua
+color_scheme: light # light/default, dark, or aqua
 
 sass:
   style: compressed
