@@ -6,7 +6,7 @@ title: Paige Cobrin
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/Paige Cobrin Headshot.jpeg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ site.baseurl }}/assets/images/paige-headshot.jpeg){: class="profile-image"}
  
 My name is Paige Cobrin, and I am a junior at Cornell University studying Mechanical Engineering, with a minor in Business - a foundation that bridges rigorous technical training with strategic business insight. Academically, my engineering coursework has trained me to break down complex systems, apply quantitative frameworks, and design efficient solutions. My business minor has complemented this technical foundation with strategy, leadership, and management coursework, enabling me to think critically about organizational decision-making and long-term growth. This blend of technical and business perspectives has prepared me to ambitiously create innovative solutions with meaningful impact.
 
