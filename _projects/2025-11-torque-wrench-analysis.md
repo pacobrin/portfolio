@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Torque Wrench Analysis
+description: Mechanics of Engineering Materials Final Project
+technologies: [Autodesk Fusion, ANSYS Workbench]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
