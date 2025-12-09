@@ -21,9 +21,11 @@ The design rendering is very simple geometry, as shown below.
 
 Diagram communicating how loads and boundary conditions were applied to the FEM model:
 
-![boundary FEM]({{ "/assets/images/rendered_cad.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![boundary FEM]({{ "/assets/images/boundary_CAD.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 Normal strain contours (in the strain gauge direction):
+
+
 
 Contour plot of maximum principal stress from FEM:
 
