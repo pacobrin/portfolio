@@ -16,18 +16,20 @@ Fatigue stress for 10^6 cycles --> sfatigue = 95 *10^3
 
 The design rendering is very simple geometry, as shown below.
 
-![rendered cad]({{ "/assets/images/rendered_cad.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![rendered cad]({{ "/assets/images/rendered_cad.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 ![exploded cad]({{ "/assets/images/exploded_cad.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 Diagram communicating how loads and boundary conditions were applied to the FEM model:
 
-![boundary FEM]({{ "/assets/images/boundary_CAD.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![boundary FEM]({{ "/assets/images/boundary_CAD.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 Normal strain contours (in the strain gauge direction):
 
-
+![normal strain]({{ "/assets/images/normal_strain.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 Contour plot of maximum principal stress from FEM:
+
+![normal stress]({{ "/assets/images/normal_stress.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 Summarize results from FEM calculation showing maximum normal stress (anywhere),
 load point deflection, strains at the strain gauge locations
@@ -35,7 +37,3 @@ load point deflection, strains at the strain gauge locations
 Torque wrench sensitivity in mV/V using strains from the FEM analysis
 
 Strain gauge selected (give type and dimensions). Note that design must physically have enough space to bond the gauges.
-
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
-
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
