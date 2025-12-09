@@ -18,7 +18,8 @@ The full written analysis and report can be found [here]({{ "/assets/Materials F
 
 The design rendering is very simple geometry, as shown below.
 
-![rendered cad]({{ "/assets/images/rendered_cad.jpeg" | relative_url }})
+![rendered cad]({{ "/assets/images/rendered_cad.jpeg" | relative_url }}){: style="width: 50px"}
+
 ![exploded cad]({{ "/assets/images/exploded_cad.jpg" | relative_url }})
 
 Diagram communicating how loads and boundary conditions were applied to the FEM model:
