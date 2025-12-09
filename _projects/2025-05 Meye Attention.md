@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2025-05 Meye Attention
+title: Meye Attention
 description: Cornell DEBUT Project
 technologies: [Fusion360]
 image: /assets/images/MA1.jpg
