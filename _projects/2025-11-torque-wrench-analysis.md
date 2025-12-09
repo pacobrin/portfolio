@@ -18,7 +18,7 @@ The full written analysis and report can be found [here]({{ "/assets/Materials F
 
 The design rendering is very simple geometry, as shown below.
 
-![rendered cad]({{ "/assets/images/rendered_cad.jpeg" | relative_url }}){: style="width: 50px"}
+![rendered cad]({{ "/assets/images/rendered_cad.jpeg" | relative_url }}){: width: 50px}
 
 ![exploded cad]({{ "/assets/images/exploded_cad.jpg" | relative_url }})
 
