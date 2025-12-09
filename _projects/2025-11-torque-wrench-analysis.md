@@ -18,21 +18,21 @@ The full written analysis and report can be found [here]({{ "/assets/Materials F
 
 The design rendering is very simple geometry, as shown below.
 
-![rendered cad]({{ "/assets/images/rendered_cad.jpeg" | relative_url }}){: width=50px}
+![rendered cad]({{ "/assets/images/rendered_cad.jpeg" | relative_url }}){: .inline-image-l} 
 
-![exploded cad]({{ "/assets/images/exploded_cad.jpg" | relative_url }})
+![exploded cad]({{ "/assets/images/exploded_cad.jpg" | relative_url }}){: .inline-image-l} 
 
 Diagram communicating how loads and boundary conditions were applied to the FEM model:
 
-![boundary FEM]({{ "/assets/images/boundary_cad.jpg" | relative_url }})
+![boundary FEM]({{ "/assets/images/boundary_cad.jpg" | relative_url }}){: .inline-image-l} 
 
 Normal strain contours (in the strain gauge direction):
 
-![normal strain]({{ "/assets/images/normal_strain.jpg" | relative_url }})
+![normal strain]({{ "/assets/images/normal_strain.jpg" | relative_url }}){: .inline-image-l} 
 
 Contour plot of maximum principal stress from FEM:
 
-![normal stress]({{ "/assets/images/normal_stress.jpg" | relative_url }})
+![normal stress]({{ "/assets/images/normal_stress.jpg" | relative_url }}){: .inline-image-l} 
 
 The FEM analysis shows a maximum normal stress of 40.972 ksi, occurring between the strain gauge and the wrench knob. The strain at the strain gauge location is 1060 microstrain. The deflection at the load point is 0.36641 in, which is the maximum displacement under the applied load.
 
