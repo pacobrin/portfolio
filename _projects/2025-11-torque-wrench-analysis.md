@@ -38,6 +38,4 @@ The FEM analysis shows a maximum normal stress of 40.972 ksi, occurring between 
 
 Using strains from the FEM analysis, the torque wrench sensitivity is 1.06 mV/V.
 
-Strain gauge selected (give type and dimensions). Note that design must physically have enough space to bond the gauges.
-
-We have selected 
+We have selected I selected a uniaxial foil strain gauge designed to measure axial strain along the handle of the torque wrench. The gauge has an active grid length of about three millimeters and a resistance of three hundred fifty ohms, which is standard for high-sensitivity measurements on metallic components. Its small footprint allows it to fit cleanly on the outer surface of the handle at the strain measurement location, while the axial orientation provides a clear and repeatable relationship between applied torque and measured strain.
