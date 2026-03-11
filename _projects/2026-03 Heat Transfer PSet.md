@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Heat Transfer Assignment 3
-description: MAE 3240: Heat Transfer, Assignment Reflection
+description: MAE 3240 Heat Transfer, Assignment Reflection
 technologies: [N/A]
 image: /assets/images/pset3pic.jpg
 ---
